@@ -1,0 +1,122 @@
+header section
+-----------------------
+background-color: #000000
+Features About Pricing Reiviews Contact--opensans semibold--color(#b0b0b0)
+
+ax(it- color-#ff8b38)
+
+MODERN AXURE TEMPLATE
+FOR BEAUTIFUL PROTOTYPES------(raleway)
+
+line----w: 64px,,, h: 10px
+
+P---Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean
+euismod bibendum laoreet. Proin gravida dolor sit amet lacus
+accumsan et viverra justo commodo.(raleway light) color--#bababb
+
+
+button--Download--color(#d0d0d1)
+p: 15px 32px 14px 32px, m-t: 44px
+
+
+
+section2
+--------------------
+bg: #f5f5f5
+h---Social Media(opensans bold) color(#333333)
+p---Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Aenean euismod bibendum laoreet.(opensans) color(#a4a5a8)
+
+
+
+section3
+---------------------
+h----Tabs with soft transitioning effect.color(#000000) (opensand bold)
+
+p-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod 
+bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra 
+justo commodo. Proin sodales pulvinar tempor. Cum sociis natoque 
+penatibus et magnis dis parturient montes.color(#a2a3a6) (open sans)
+
+p--Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod 
+bibendum laoreet.color(#a2a3a6) (open asans)
+
+button--- bg(#ff8b38)
+m-t: 52px,,,,,,,,,p: 16px 25px 17px 25px
+
+tab----bg(#ff8b38---orange) other(#333333-balck)
+p: 50px 111px
+
+
+section4
+------------------------
+bg--(#ffffff)
+h--Sub list section(opensans bold)   color(#212121)
+line-----m-b-t:30px,,,,,,w: 64px,,,,, h:10px
+
+p----Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean 
+euismod bibendum laoreet. Proin gravida dolor sit amet lacus 
+accumsan et viverra justo commodo.color(#86878b)(opensans)
+margin: 31px 0px 47px 0px
+
+
+Title----(opensans semibold)(#212121)
+
+
+p-----Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Aenean euismod bibendum laoreet. Proin gravida dolor 
+sit amet lacus accumsan et viverra justo commodo.(#a4a5a80) (opensans)
+m-t: 13px; 
+
+margin-top-full:50px
+p-----Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Aenean euismod bibendum laoreet.(#a4a5a80) (opensans)
+m-t: 13px;
+
+
+
+SECTION5
+-------------------
+bg: #f5f5f5
+h---Standard Picture Sectionopensans bold--#212121
+line----w:64px,,,,h:6px,,, #ff8b38
+m-t-b: 30px
+
+p--#86878b,,opensans
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean 
+euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan 
+et viverra justo commodo. Proin sodales pulvinar tempor. Cum sociis 
+natoque penatibus et magnis dis parturient montes.
+
+p--#86878b,,opensans
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod 
+bibendum laoreet.
+
+full-text: m: 186px 825px 208px 152px
+
+
+section6
+-----------------------
+bg: white
+h---WHY THIS IS AWESOME,,,,raleway regualr,,,#212121
+line----w:64px,,,,h:6px,,, #ff8b38
+P------Lorem ipsum dolor sit amet, consectetur adipiscing elit.,,,
+opensans,,,#a4a5a8
+m: 31px 80px
+
+h--Thoughtful Design,,,,opesans bold,,#333333
+p----Lorem ipsum dolor sit amet, consectetur adipiscing 
+elit. Aenean euismod bibendum laoreet. Proin gravida 
+dolor sit amet lacus accumsan et viverra.,,,,#a4a5a8,,opensans
+
+
+h--Well Crafted,,,,opesans bold,,#333333
+p----Lorem ipsum dolor sit amet, consectetur adipiscing 
+elit. Aenean euismod bibendum laoreet. Proin gravida 
+dolor sit amet lacus accumsan et viverra.,,,,#a4a5a8,,opensans
+
+
+h--Easy to Customize,,,,opesans bold,,#333333
+p----Lorem ipsum dolor sit amet, consectetur adipiscing 
+elit. Aenean euismod bibendum laoreet. Proin gravida 
+dolor sit amet lacus accumsan et viverra.,,,,#a4a5a8,,opensans
